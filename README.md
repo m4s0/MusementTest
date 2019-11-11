@@ -16,8 +16,17 @@ docker-compose run php bash
 
 #### Tests
 
-run unit tests
 
 ```
-docker-compose run php bash -lc "bin/phpunit"
-````
+docker-compose run php bash
+```
+
+run unit tests
+```
+bin/phpunit
+```
+
+run behat tests
+```
+./vendor/bin/behat
+```

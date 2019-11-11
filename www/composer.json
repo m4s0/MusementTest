@@ -12,6 +12,8 @@
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {
+        "behat/behat": "^3.5",
+        "behat/symfony2-extension": "^2.1",
         "symfony/phpunit-bridge": "^4.3"
     },
     "config": {
