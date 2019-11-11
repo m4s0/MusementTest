@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "count": 434,
+    "match_type": "cities",
+    "match_names": [
+      "Parigi"
+    ],
+    "match_ids": [
+      "40"
+    ]
+  },
+  "data": [
+    {
+      "operational_days": "Tutti i giorni tranne il lunedÌ",
+      "max_confirmation_time": "P0D",
+      "cutoff_time": "P0D",
+      "booking_type": "NO-CALENDAR-FIXED-END",
+      "uuid": "796f47b1-6ed2-49f1-aebf-b7101428f0ef",
+      "city": {
+        "id": 40,
+        "name": "Parigi",
+        "country": {
+          "id": 60,
+          "name": "Francia",
+          "iso_code": "FR"
+        },
+        "cover_image_url": "https://images.musement.com/cover/0002/49/aerial-wide-angle-cityscape-view-of-paris-xxl-jpg_header-148745.jpeg",
+        "url": "https://www.musement.com/it/parigi/",
+        "time_zone": "Europe/Paris"
+      },
+      "saves": 0,
+      "title": "Biglietto per il Museo d'Orsay con audioguida scaricabile",
+      "relevance": 2001,
+      "relevance_venue": 2100,
+      "must_see": false,
+      "last_chance": false,
+      "top_seller": false,
+      "voucher_access_usage": "MOBILE",
+      "temporary": true,
+      "description": "Esplora la vasta collezione di arte impressionista del museo d'Orsay con questo tour autoguidato che include il biglietto e l'audioguida scaricabile",
+      "about": "Esplora la vasta collezione di arte impressionista del museo d'Orsay con questo tour digitale autoguidato che include il biglietto d'ingresso e la nostra audioguida scaricabile!Salta la fila e accedi direttamente dall'entrata \"C\"e goditi il commento audio completo scaricando l'app POPGuide da Google Play o dall'Apple Store! Scopri tutto il meglio del museo d'Orsay in meno di un'ora. Una mappa 3D interattiva ti accompagnerà a scoprire i capolavori da non perdere e ti racconterà affascinanti informazioni (disponibili in inglese, spagnolo, tedesco, italiano, francese e cinese).MOSTRE TEMPORANEEDegas all'Opera\n24 settembre 2019 - 19 gennaio 2020\nPer tutto l’arco della sua carriera, dagli esordi negli anni ’60 dell’Ottocento fino alle sue opere finali dei primi '900, Degas ha fatto dell'Opéra di Parigi il fulcro dei suoi lavori. Nessuna mostra prima d’ora aveva preso in considerazione l’Opéra nella sua globalità, studiando sia l’intenso legame di Degas con questo edificio e i suoi gusti musicali, che le infinite risorse di questa meravigliosa «cassetta degli attrezzi». Attraverso l’opera di un artista leggendario, emerge il ritratto dell’Opéra di Parigi nel XIX secolo.",
+      "meeting_point": "Presenta il tuo biglietto all'ingresso C (entrée réservée) del museo situato sul lato destro del museo d'Orsay.Fermata RER C: Gare Musée d'Orsay. Orario di apertura: martedì-domenica 9.30-18.00 / giovedì 9.30-22.45.",
+      "duration_range": {
+        "max": "PT24H"
+      },
+      "validity": "P0D",
+      "has_price_info_on_date": true,
+      "open": true,
+      "ticket_not_included": false,
+      "likely_to_sell_out": false,
+      "special_offer": false,
+      "exclusive": false,
+      "best_price": false,
+      "daily": false,
+      "languages": [
+        {
+          "code": "en",
+          "name": "Inglese"
+        },
+        {
+          "code": "it",
+          "name": "Italiano"
+        },
+        {
+          "code": "fr",
+          "name": "Francese"
+        },
+        {
+          "code": "es",
+          "name": "Spagnolo"
+        },
+        {
+          "code": "de",
+          "name": "Tedesco"
+        }
+      ],
+      "group_size": [],
+      "food": [],
+      "services": [
+        {
+          "code": "audioguide",
+          "name": "Con audioguida"
+        }
+      ],
+      "features": [
+        {
+          "code": "istant",
+          "name": "CONFERMA ISTANTANEA"
+        }
+      ],
+      "is_available_today": false,
+      "is_available_tomorrow": false,
+      "cover_image_url": "https://images.musement.com/cover/0018/88/thumb_1787769_cover_header.jpeg",
+      "service_fee": {
+        "currency": "EUR",
+        "value": 0,
+        "formatted_value": "€ 0.00",
+        "formatted_iso_value": "0,00 €"
+      },
+      "retail_price": {
+        "currency": "EUR",
+        "value": 18,
+        "formatted_value": "€ 18.00",
+        "formatted_iso_value": "18,00 €"
+      },
+      "retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 18,
+        "formatted_value": "€ 18.00",
+        "formatted_iso_value": "18,00 €"
+      },
+      "original_retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 18,
+        "formatted_value": "€ 18.00",
+        "formatted_iso_value": "18,00 €"
+      },
+      "original_retail_price": {
+        "currency": "EUR",
+        "value": 18,
+        "formatted_value": "€ 18.00",
+        "formatted_iso_value": "18,00 €"
+      },
+      "discount": 0,
+      "categories": [
+        {
+          "id": 13,
+          "name": "Musei",
+          "level": "1",
+          "code": "museums",
+          "event_image_url": "https://images.musement.com/cover/0002/09/thumb_108850_cover_header.jpeg",
+          "cover_image_url": "https://images.musement.com/category/0003/24/thumb_223579_category_header.jpeg",
+          "url": "https://www.musement.com/it/parigi/musei-c/"
+        },
+        {
+          "id": 114,
+          "name": "Mostre",
+          "level": "1",
+          "code": "exhibitions",
+          "event_image_url": "https://images.musement.com/cover/0018/88/thumb_1787769_cover_header.jpeg",
+          "cover_image_url": "https://images.musement.com/cover/0018/88/thumb_1787769_cover_header.jpeg",
+          "url": "https://www.musement.com/it/parigi/mostre-c/"
+        }
+      ],
+      "reviews_number": 81,
+      "reviews_avg": 4.9,
+      "reviews_aggregated_info": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 12,
+        "5": 69
+      },
+      "latitude": 48.859961,
+      "longitude": 2.326561,
+      "url": "https://www.musement.com/it/parigi/orsay-museum-ticket-with-downloadable-audioguide-152147/",
+      "flavours": [
+        {
+          "id": 112,
+          "name": "Tour con audioguida",
+          "active": true,
+          "slug": "tour-con-audioguida"
+        }
+      ],
+      "verticals": [
+        {
+          "id": 1,
+          "name": "Arte e musei",
+          "active": true,
+          "code": "arts-culture",
+          "slug": "arte-e-musei",
+          "url": "https://www.musement.com/it/arte-e-musei-t/",
+          "meta_title": "Scopri il meraviglioso mondo dell'arte e dei musei",
+          "meta_description": "Scopri le opere d'arte più famose del mondo con Musement, ammira i meravigliosi dipinti rinascimentali e le sculture rivoluzionarie delle avanguardie artistiche.",
+          "cover_image_url": "https://images.musement.com/vertical/0001/30/art-and-culture_header-29023.jpeg",
+          "relevance": 100
+        }
+      ],
+      "giftable": true,
+      "buy_multiplier": 1
+    },
+    {
+      "operational_days": "Tutti i giorni eccetto i martedì",
+      "max_confirmation_time": "P0D",
+      "cutoff_time": "P0D",
+      "booking_type": "NO-CALENDAR-FIXED-END",
+      "uuid": "15c16431-2046-11e7-9cc9-06a7e332783f",
+      "city": {
+        "id": 40,
+        "name": "Parigi",
+        "country": {
+          "id": 60,
+          "name": "Francia",
+          "iso_code": "FR"
+        },
+        "cover_image_url": "https://images.musement.com/cover/0002/49/aerial-wide-angle-cityscape-view-of-paris-xxl-jpg_header-148745.jpeg",
+        "url": "https://www.musement.com/it/parigi/",
+        "time_zone": "Europe/Paris"
+      },
+      "saves": 9,
+      "title": "Biglietti aperti per la collezione permanente del Centre Pompidou",
+      "relevance": 2000,
+      "relevance_venue": 2500,
+      "must_see": false,
+      "last_chance": false,
+      "top_seller": false,
+      "voucher_access_usage": "MOBILE",
+      "temporary": false,
+      "description": "Prenota i tuoi biglietti con Musement per visitare la mostra permanente del Centre Pompidou. Biglietti senza data: prenota ora e vai quando vuoi!",
+      "about": "Benvenuti al più grande museo di arte moderna e contemporanea d'Europa! Questo biglietto ti darà accesso alla mostra permamente del Centre Pompidou, al Musée National d'Art Moderne e alla Galerie des Enfants.Il Centre Pompidou, ribattezzato MOMA europeo, ospita il museo francese di arte moderna più ricco d'Europa. Questo ampio edificio contemporaneo inaugurato nel 1977 e capolavoro del Presidente Pompidou è situato nel cuore di Parigi, ad una distanza media che si può coprire a piedi per arrivare a tutti i principali monumenti della città. Essendo allo stesso tempo una biblioteca, un centro di ricerca sulla musica e sull'acustica e un museo, questa inusuale istituzione culturale mette insieme creazoni moderne e contemporanee, incluse le arti plastiche, i libri, il design, la musica e il cinema. Informazione importante: il biglietto non consente l'accesso alle mostre temporanee\nPer le mostre temporanee",
+      "meeting_point": "Presenta il tuo voucher direttamente all'ingresso del Centre Pompidou, 19 rue Beaubourg in Parigi. Non metterti in coda alla biglietteria. Da agosto 2019 a settembre 2020, il Centre Pompidou è accessibile solamente da rue Beaubourg, a causa dei lavori di ristrutturazione e della chiusura della Piazza e della ciniglia. Il Centro Pompidou è aperto ogni giorno eccetto i martedì, dalle 11.00 ale 21.00 . Il museo è chiuso il 1° maggio",
+      "duration_range": {
+        "max": "PT24H"
+      },
+      "validity": "P0D",
+      "has_price_info_on_date": true,
+      "open": true,
+      "ticket_not_included": false,
+      "likely_to_sell_out": false,
+      "special_offer": false,
+      "exclusive": false,
+      "best_price": false,
+      "daily": false,
+      "languages": [],
+      "group_size": [],
+      "food": [],
+      "services": [],
+      "features": [],
+      "is_available_today": true,
+      "is_available_tomorrow": true,
+      "cover_image_url": "https://images.musement.com/cover/0046/41/thumb_4540006_cover_header.jpeg",
+      "service_fee": {
+        "currency": "EUR",
+        "value": 0,
+        "formatted_value": "€ 0.00",
+        "formatted_iso_value": "0,00 €"
+      },
+      "retail_price": {
+        "currency": "EUR",
+        "value": 14,
+        "formatted_value": "€ 14.00",
+        "formatted_iso_value": "14,00 €"
+      },
+      "retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 14,
+        "formatted_value": "€ 14.00",
+        "formatted_iso_value": "14,00 €"
+      },
+      "original_retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 14,
+        "formatted_value": "€ 14.00",
+        "formatted_iso_value": "14,00 €"
+      },
+      "original_retail_price": {
+        "currency": "EUR",
+        "value": 14,
+        "formatted_value": "€ 14.00",
+        "formatted_iso_value": "14,00 €"
+      },
+      "discount": 0,
+      "categories": [
+        {
+          "id": 13,
+          "name": "Musei",
+          "level": "1",
+          "code": "museums",
+          "event_image_url": "https://images.musement.com/cover/0002/09/thumb_108850_cover_header.jpeg",
+          "cover_image_url": "https://images.musement.com/category/0003/24/thumb_223579_category_header.jpeg",
+          "url": "https://www.musement.com/it/parigi/musei-c/"
+        }
+      ],
+      "reviews_number": 1657,
+      "reviews_avg": 4.3,
+      "reviews_aggregated_info": {
+        "1": 0,
+        "2": 3,
+        "3": 55,
+        "4": 999,
+        "5": 600
+      },
+      "latitude": 48.8611,
+      "longitude": 2.35326,
+      "url": "https://www.musement.com/it/parigi/biglietti-aperti-per-la-collezione-permanente-del-centre-pompidou-9462/",
+      "flavours": [
+        {
+          "id": 2,
+          "name": "Biglietti d'ingresso",
+          "active": true,
+          "slug": "biglietti-d-ingresso"
+        }
+      ],
+      "verticals": [
+        {
+          "id": 1,
+          "name": "Arte e musei",
+          "active": true,
+          "code": "arts-culture",
+          "slug": "arte-e-musei",
+          "url": "https://www.musement.com/it/arte-e-musei-t/",
+          "meta_title": "Scopri il meraviglioso mondo dell'arte e dei musei",
+          "meta_description": "Scopri le opere d'arte più famose del mondo con Musement, ammira i meravigliosi dipinti rinascimentali e le sculture rivoluzionarie delle avanguardie artistiche.",
+          "cover_image_url": "https://images.musement.com/vertical/0001/30/art-and-culture_header-29023.jpeg",
+          "relevance": 100
+        }
+      ],
+      "giftable": true,
+      "buy_multiplier": 1
+    },
+    {
+      "operational_days": "Tutti i giorni",
+      "max_confirmation_time": "P0D",
+      "cutoff_time": "P2D",
+      "booking_type": "CALENDAR-NO-TIMESLOTS",
+      "uuid": "165af5e7-2046-11e7-9cc9-06a7e332783f",
+      "city": {
+        "id": 40,
+        "name": "Parigi",
+        "country": {
+          "id": 60,
+          "name": "Francia",
+          "iso_code": "FR"
+        },
+        "cover_image_url": "https://images.musement.com/cover/0002/49/aerial-wide-angle-cityscape-view-of-paris-xxl-jpg_header-148745.jpeg",
+        "url": "https://www.musement.com/it/parigi/",
+        "time_zone": "Europe/Paris"
+      },
+      "saves": 10,
+      "title": "Biglietti per 1 giorno a Disneyland® Paris",
+      "relevance": 1500,
+      "relevance_venue": 4000,
+      "must_see": false,
+      "last_chance": false,
+      "top_seller": true,
+      "voucher_access_usage": "PRINTED",
+      "temporary": false,
+      "description": "Goditi il Parco Disneyland® e i Walt Disney Studios® grazie a Musement: scegli tra le nostre proposte di biglietti per una giornata all'insegna del divertimento!",
+      "about": "Vivi per un giorno la magia di una favola: entra nel meraviglioso mondo Disney e sentiti protagonista di una storia a lieto fine. Principessa o principe che tu sia, la tua giornata a Disneyland® Paris sarà indimenticabile!Con questo biglietto, puoi scegliere se visitare uno o due parchi in un solo giorno: il Parco Disneyland®, con le attrazioni principali ispirate alle fiabe, e/o i Walt Disney Studios®, inaugurati nel 2002 e dedicati al mondo del cinema. Programma la tua giornata come preferisci: scegli l'opzione di biglietto che meglio si adatta alle tue esigenze.Festa di Halloween Disney Sei coraggioso? Preparati per il Disney's Halloween Festival, che come una nebbia sinistra avvolgerà Disneyland Paris dal 28 settembre al 3 novembre 2019. Affronta le tue paure, incontra i diabolici cattivi Disney e scopri la straordinaria resurrezione di due iconiche attrazioni.Natale a Disneyland ParisNon c'è nulla di più magico del Natale a Disneyland Paris. Senti la meraviglia della vera magia natalizia, solo a Disneyland Paris dal 9 novembre al 6 gennaio. Scopri tutto ciò che rende speciale il Natale, nel più incantevole degli scenari stagionali.",
+      "meeting_point": "Riceverai i biglietti via e-mail. Stampali a casa e poi presentati direttamente ai tornelli del parco.",
+      "duration_range": {
+        "max": "PT24H"
+      },
+      "validity": "PT24H",
+      "has_price_info_on_date": true,
+      "open": false,
+      "ticket_not_included": false,
+      "likely_to_sell_out": false,
+      "special_offer": false,
+      "exclusive": false,
+      "best_price": false,
+      "daily": true,
+      "languages": [],
+      "group_size": [],
+      "food": [],
+      "services": [],
+      "features": [],
+      "is_available_today": true,
+      "is_available_tomorrow": false,
+      "cover_image_url": "https://images.musement.com/cover/0002/17/disneyland-paris-1_header-116877.png",
+      "service_fee": {
+        "currency": "EUR",
+        "value": 0,
+        "formatted_value": "€ 0.00",
+        "formatted_iso_value": "0,00 €"
+      },
+      "retail_price": {
+        "currency": "EUR",
+        "value": 56,
+        "formatted_value": "€ 56.00",
+        "formatted_iso_value": "56,00 €"
+      },
+      "retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 56,
+        "formatted_value": "€ 56.00",
+        "formatted_iso_value": "56,00 €"
+      },
+      "original_retail_price_without_service_fee": {
+        "currency": "EUR",
+        "value": 56,
+        "formatted_value": "€ 56.00",
+        "formatted_iso_value": "56,00 €"
+      },
+      "original_retail_price": {
+        "currency": "EUR",
+        "value": 56,
+        "formatted_value": "€ 56.00",
+        "formatted_iso_value": "56,00 €"
+      },
+      "discount": 0,
+      "categories": [
+        {
+          "id": 69,
+          "name": "Parchi a Tema",
+          "level": "1",
+          "code": "theme-parks",
+          "event_image_url": "https://images.musement.com/cover/0002/17/disneyland-paris-1_header-116877.png",
+          "cover_image_url": "https://images.musement.com/cover/0002/17/disneyland-paris-1_header-116877.png",
+          "url": "https://www.musement.com/it/parigi/parchi-a-tema-c/"
+        }
+      ],
+      "reviews_number": 1013,
+      "reviews_avg": 4.6,
+      "reviews_aggregated_info": {
+        "1": 2,
+        "2": 2,
+        "3": 27,
+        "4": 337,
+        "5": 645
+      },
+      "latitude": 48.872333,
+      "longitude": 2.775765,
+      "url": "https://www.musement.com/it/parigi/biglietti-per-1-giorno-a-disneyland-r-paris-9707/",
+      "flavours": [
+        {
+          "id": 2,
+          "name": "Biglietti d'ingresso",
+          "active": true,
+          "slug": "biglietti-d-ingresso"
+        }
+      ],
+      "verticals": [
+        {
+          "id": 2,
+          "name": "Tour e attrazioni",
+          "active": true,
+          "code": "sightseeing",
+          "slug": "tour-e-attrazioni",
+          "url": "https://www.musement.com/it/tour-e-attrazioni-t/",
+          "meta_title": "Scopri i migliori tour e le attrazioni più belle",
+          "meta_description": "Esplora ogni città con Musement come se fossi uno del posto. Non aspettare in fila per visitare le attrazioni più famose del mondo e scopri i luoghi meno conosciuti.",
+          "cover_image_url": "https://images.musement.com/vertical/0001/31/sightseeing-00-jpg_header-30549.jpeg",
+          "relevance": 90
+        }
+      ],
+      "giftable": true,
+      "buy_multiplier": 1
+    }
+  ]
+}

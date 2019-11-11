@@ -5,7 +5,7 @@ services:
     container_name: php
     build: docker/php
     volumes:
-      - ./www:/var/www/
+      - ./application:/var/application/
     env_file:
       - docker/.env
 

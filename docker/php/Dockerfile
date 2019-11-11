@@ -12,6 +12,7 @@ RUN apk add --no-cache bash \
    && apk add php7-curl \
    && apk add php7-openssl \
    && apk add php7-xml \
+   && apk add php7-simplexml \
    && apk add php7-dom \
    && apk add php7-session \
    && apk add php7-xmlwriter \
@@ -20,8 +21,8 @@ RUN apk add --no-cache bash \
    && apk add php7-pecl-xdebug
 
 ADD xdebug.ini /etc/php7/conf.d/xdebug.ini
-RUN mkdir -p /var/www
-RUN adduser --disabled-password musement && chown -R musement:musement /var/www
+RUN mkdir -p /var/application
+RUN adduser --disabled-password musement && chown -R musement:musement /var/application
 
 # Composer
 RUN wget https://getcomposer.org/installer -O composer-setup.php
@@ -31,7 +32,7 @@ RUN mv composer.phar /usr/local/bin/composer
 RUN chmod +x /usr/local/bin/composer
 
 USER musement
-WORKDIR /var/www
+WORKDIR /var/application
 
 RUN echo "alias ll='ls -l'" >> ~/.bashrc
 RUN echo "alias la='ls -la'" >> ~/.bashrc
